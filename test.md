@@ -1,5 +1,7 @@
-#a header
+#Comments test
 
-this is not a comment <!-- this is a comment --> this is not a comment
+This section contains an inline comment. <!-- this is a comment --> In this case, comments are rendered in the converted html.
 
-*some italics text*
+This section has a comment in a separate line.
+<!-- this is a comment -->
+In this case, the comment is not rendered in the converted html.
